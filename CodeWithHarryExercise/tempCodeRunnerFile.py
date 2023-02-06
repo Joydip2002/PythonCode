@@ -1,0 +1,2 @@
+
+        print("Wrong Input")

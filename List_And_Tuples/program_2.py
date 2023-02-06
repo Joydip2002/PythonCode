@@ -1,0 +1,8 @@
+student1 = input("Enter marks Student 1: ")
+student2 = input("Enter marks Student 2: ")
+student3 = input("Enter marks Student 3: ")
+student4 = input("Enter marks Student 4: ")
+student5 = input("Enter marks Student 5: ")
+student6 = input("Enter marks Student 6: ")
+StudentMarks = (student1,student2,student3,student4,student5,student6)
+print(StudentMarks)
